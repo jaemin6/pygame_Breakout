@@ -1,0 +1,15 @@
+# Python Virtual Environment
+venv/
+*.venv/
+
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+
+# 데이터 파일 무시
+/data/
+
+# 기타
+dist/
+build/
+*.egg-info
